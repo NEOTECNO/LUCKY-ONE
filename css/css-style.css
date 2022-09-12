@@ -266,7 +266,7 @@ body {
   position: relative;
 }
 .main__right img {
-  width: 100%;
+  width: 70vh;
   position: absolute;
   border-radius: 10px;
   filter: drop-shadow(0px 0px 6px #ffffff);
@@ -321,7 +321,7 @@ body {
 .in-form {
   flex: 1 1 auto;
   border-radius: 5px;
-  background-color: #b199997a;
+  background-color: #ffffff4f;
   height: 50px;
   width: 40%;
   padding: 0 15px;
