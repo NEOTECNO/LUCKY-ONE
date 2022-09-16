@@ -301,6 +301,8 @@ body {
   display: flex;
   height: 80px;
   align-items: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .form-row-amount {
@@ -669,7 +671,7 @@ textarea.error {
     padding-top: 10px;
   }
   .form-row-text {
-    margin-top: 70px;
+    margin-top: 80px;
   }
   .form-row-amount {
     width: 100%;
